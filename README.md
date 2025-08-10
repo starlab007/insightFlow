@@ -20,9 +20,4 @@ A responsive admin dashboard with data visualization built with modern web techn
 - **Charts**: Chart.js
 - **Animations**: Framer Motion
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/insightflow.git
-   cd insightflow
