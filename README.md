@@ -21,3 +21,5 @@ A responsive admin dashboard with data visualization built with modern web techn
 - **Animations**: Framer Motion
 
 
+## Live Demo
+[View Live](https://insightflow.vercel.app)
