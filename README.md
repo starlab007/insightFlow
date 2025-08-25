@@ -22,4 +22,4 @@ A responsive admin dashboard with data visualization built with modern web techn
 
 
 ## Live Demo
-[View Live](https://insightflow.vercel.app)
+[View Live][(https://insight-flow-theta.vercel.app/)
